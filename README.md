@@ -11,6 +11,8 @@ CSI merge
 
 [Privacy inference attack](https://dl.acm.org/doi/pdf/10.1145/2976749.2978397)
 
+[CSI fuzzer](https://dl.acm.org/doi/pdf/10.1145/3448300.3468255)
+
 [DL-based attack detection](https://github.com/isaac1369/Physical-Tamper-Attack-Detection)
 
 

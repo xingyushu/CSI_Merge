@@ -17,6 +17,9 @@ CSI merge
 
 
 ## CSI data
+
+[Dataset](https://github.com/Gi-z/CSI-Data)
+
 [Gestures](https://github.com/tahmidzbr/Human-Activities-Gestures-Recognition-using-Channel-State-Information-CSI-of-IEEE-802.11n)
 
 [Data extraction](https://github.com/seemoo-lab/mobisys2018_nexmon_channel_state_information_extractor)
